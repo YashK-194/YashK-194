@@ -1,14 +1,5 @@
-# 👋 Hello, I'm Yash Kumar
-
-## 👨‍💻 About Me
-- 🎓 3rd-Year B.Tech Computer Science Student (Information Technology branch) from India
-- ⛓️ Passionate about Blockchain Development and Frontend Engineering
-- 🏆 Active in hackathons
-- 🔗 Created multiple blockchain-based projects for DeFi and other applications
-- 💻 Usually work on Ethereum but have experience building on Solana and TVM blockchains like Venom using Locklift
-- 🌐 Founder of [Labro.in](https://labro.in) - A platform connecting people to local servicemen (currently serving ~100 users)
-
-## 🛠️ Technical Skills
+#  Hi there 👋, I'm Yash Kumar
+- 🌐 A blockchain dev and founder of [Labro.in](https://labro.in) - A platform connecting people to local servicemen (currently serving ~100 users)
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
