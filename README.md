@@ -1,4 +1,4 @@
-#  Hi there 👋, I'm Yash Kumar
+#  Yash Kumar
 - 🌐 A blockchain dev and founder of [Labro.in](https://labro.in) - A platform connecting people to local servicemen (currently serving ~100 users)
 
 ### Languages
