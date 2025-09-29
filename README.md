@@ -37,6 +37,9 @@
 ![MetaMask](https://img.shields.io/badge/-MetaMask-F6851B?style=flat-square&logo=metamask&logoColor=white)
 ![Ethers.js](https://img.shields.io/badge/-Ethers.js-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
 
+### Badges
+[![An image of @yashk194's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/yashk194)](https://holopin.io/@yashk194)
+
 
 
 ## 🔗 Connect With Me
